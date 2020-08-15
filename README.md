@@ -2,7 +2,8 @@
 [most repositories are private]
 [portfolio site coming soon :)]
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/VG3lHiD"  ><a href="//imgur.com/a/VG3lHiD">portfolio_teaser</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Figure 1-1](https://imgur.com/QW3StHo)
+
 
 <!--
 **unabiabram/unabiabram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
