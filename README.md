@@ -2,7 +2,7 @@
 [most repositories are private]
 [portfolio site coming soon :)]
 
-![Figure 1-1](https://imgur.com/QW3StHo)
+![Figure 1-1](https://i.imgur.com/QW3StHo.jpg)
 
 
 <!--
