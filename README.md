@@ -2,8 +2,9 @@
 [most repositories are private]
 [portfolio site coming soon :)]
 
+<!---
 ![Figure 1-1](https://i.imgur.com/QW3StHo.jpg)
-
+-->
 
 <!--
 **unabiabram/unabiabram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
