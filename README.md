@@ -1,5 +1,4 @@
 ### Hi there 👋
-[most repositories are private]
 [portfolio site coming soon :)]
 
 Follow me on [Twitter](https://twitter.com/bruhhm_kun)
