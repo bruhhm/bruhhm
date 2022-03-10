@@ -1,6 +1,6 @@
 ![This is an image](banner_linkedin.png)
 
-### Hi there 👋
+# Hi there 👋
 
 Follow me on [Twitter](https://twitter.com/not_bruhhm)
 
