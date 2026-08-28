@@ -1,0 +1,49 @@
+<svg width="265.5" height="48" viewBox="0 0 1416 256" fill="none" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <!-- 1. Figma (x=0) -->
+  <g transform="translate(0, 0)">
+    <rect width="256" height="256" rx="60" fill="#242938" />
+    <g transform="translate(17, 0)">
+      <path d="M128 128a34 34 0 1 0 34-34h-34v34z" fill="#0acf83"/>
+      <path d="M94 128a34 34 0 1 0 34 34v-68a34 34 0 1 0-34 34z" fill="#a259ff"/>
+      <path d="M128 60a34 34 0 1 0-34 34h34V60z" fill="#f24e1e"/>
+      <path d="M128 60h34a34 34 0 1 0-34 34V60z" fill="#ff7262"/>
+      <path d="M128 196a34 34 0 1 0-34-34 34 34 0 0 0 34 34z" fill="#1abcfe"/>
+    </g>
+  </g>
+
+  <!-- Cavalry -->
+  <g transform="translate(256, 0)">
+    <rect width="256" height="256" rx="60" fill="#242938" />
+    <path d="M 98,76 L 158,76 M 83,102 L 173,102 M 68,128 L 98,128 M 83,154 L 173,154 M 98,180 L 158,180 M 68,128 L 98,180 M 83,102 L 128,180 M 98,76 L 113,102 M 128,76 L 143,102 M 158,76 L 173,102 M 143,154 L 158,180 M 68,128 L 98,76 M 83,154 L 128,76 M 98,180 L 113,154 M 128,180 L 143,154 M 143,102 L 158,76 M 158,180 L 173,154" stroke="#00E5FF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+
+  <!-- Affinity -->
+  <g transform="translate(512, 0)">
+    <rect width="256" height="256" rx="60" fill="#242938" />
+    <path d="M 160,185 C 160,185 160,150 160,130 C 160,95 135,70 100,70 C 65,70 50,110 50,110 C 50,110 70,120 80,110 C 90,100 105,95 120,100 C 135,105 140,115 140,130 L 140,135 C 120,130 80,125 60,140 C 45,155 45,180 70,190 C 100,200 130,185 140,175 L 140,185 Z M 140,160 C 130,170 105,180 85,170 C 70,160 80,145 100,145 C 120,145 140,150 140,150 Z" fill="#FFFFFF" />
+  </g>
+
+  <!-- Rive -->
+  <g transform="translate(768, 0)">
+    <rect width="256" height="256" rx="60" fill="#242938" />
+    <path d="M 128,70 L 178,120 L 128,170 L 78,120 Z" fill="#FF0000" />
+    <path d="M 128,120 L 178,170 L 128,220 L 78,170 Z" fill="#FF8800" />
+    <path d="M156.4 78L186 106.3V78h-29.6zM116.5 137L78 100.2v72.5h29.5v-27.1L126.8 165h40.9l-28.5-27.3L167 111h-39.2l-11.3 26z" fill="#FFFFFF" />
+    <path d="M87.3 78H78v13.6l9.3-13.6z" fill="#FFFFFF" />
+  </g>
+
+  <!-- Spline -->
+  <g transform="translate(1024, 0)">
+    <rect width="256" height="256" rx="60" fill="#242938" />
+    <defs>
+      <linearGradient id="splineGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#FFD700" />
+        <stop offset="25%" stop-color="#FF007F" />
+        <stop offset="50%" stop-color="#7F00FF" />
+        <stop offset="75%" stop-color="#007FFF" />
+        <stop offset="100%" stop-color="#00FF7F" />
+      </linearGradient>
+    </defs>
+    <circle cx="128" cy="128" r="70" fill="url(#splineGrad)" />
+  </g>
+</svg>

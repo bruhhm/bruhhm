@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+banner/node_modules/
+
+# Remotion & Bundler Caches
+.remotion/
+banner/.remotion/
+.cache/
+
+# OS Files
+.DS_Store
+Thumbs.db
