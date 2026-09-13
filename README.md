@@ -17,11 +17,7 @@
 
   <p align="center">
     <a>
-      <img src="https://skillicons.dev/icons?i=ts,js,dart,py,go,react,nextjs&theme=dark" alt="Languages" />
-    </a>
-    &nbsp;
-    <a href="https://twitter.com/not_bruhhm" target="_blank">
-      <img src="https://skillicons.dev/icons?i=flutter,tailwind,html,css,docker,aws,gcp&theme=dark" alt="Languages" />
+      <img src="https://skillicons.dev/icons?i=notion,figma,ts,js,dart,py,flutter&theme=dark" alt="Languages" />
     </a>
   </p>
 
