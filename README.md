@@ -1,7 +1,6 @@
 
 ### About Me
 
-- Building with whatever tools to get the job done.
 - Into gamification, interactive experiences, and making things fun.
 - Always learning and down to collaborate on open-source and dev tools.
 ### Links
